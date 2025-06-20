@@ -1,54 +1,60 @@
-🎬 Moviegenics
-Moviegenics is a responsive and user-friendly web application that provides comprehensive information about movies and TV shows. It offers features like advanced search, sorting, filtering, and detailed movie/TV show data — all in a sleek and intuitive interface.
+# 🎬 Moviegenics
 
-🚀 Features
-📚 Extensive Movie & TV Show Database
-Access detailed information including:
+**Moviegenics** is a responsive and user-friendly web application that provides comprehensive information about movies and TV shows. It offers features like advanced search, sorting, filtering, and detailed movie/TV show data — all in a sleek and intuitive interface.
 
-Titles
+---
 
-Release Dates
+## 🚀 Features
 
-Genres
+* 📚 **Extensive Movie & TV Show Database**
+  Access detailed information including:
 
-Cast & Crew
+  * Titles
+  * Release Dates
+  * Genres
+  * Cast & Crew
+  * Ratings
+  * Reviews
 
-Ratings
+* 🔎 **Powerful Search Functionality**
+  Search for any movie or TV show quickly and effortlessly.
 
-Reviews
+* 🧩 **Filtering and Sorting**
 
-🔎 Powerful Search Functionality
-Search for any movie or TV show quickly and effortlessly.
+  * Filter content by genre.
+  * Sort results by:
 
-🧩 Filtering and Sorting
+    * Release Year
+    * Popularity
+    * Rating
+    * Title
 
-Filter content by genre.
+---
 
-Sort results by:
+## 🚧 Future Improvements
 
-Release Year
+* User authentication (watchlist/favorites)
+* Pagination for better UX
+* Dark mode support
 
-Popularity
-
-Rating
-
-Title
+---
 
 
-🚧 Future Improvements
-User authentication (watchlist/favorites)
+## 🤝 Contributing
 
-Pagination for better UX
-
-Dark mode support
-
-🤝 Contributing
 Contributions are welcome!
 Please open an issue or submit a pull request for any features, bugs, or suggestions.
 
-📄 License
-This project is licensed under the MIT License.
+---
 
-🌟 Show Your Support
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 🌟 Show Your Support
+
 If you like this project, give it a ⭐️ and share it with others!
+
 
